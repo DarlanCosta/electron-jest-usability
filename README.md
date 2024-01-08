@@ -1,1 +1,5 @@
-# electron-jest-usability
+# Electron Realm
+
+In the realm of JavaScript development, Electron is an open-source framework that allows developers to build cross-platform desktop applications using web technologies. Created by GitHub, Electron enables the creation of applications for various operating systems, including Windows, macOS, and Linux, using a single codebase.
+
+The core idea behind Electron is to leverage web technologies such as HTML, CSS, and JavaScript to develop desktop applications. Essentially, Electron combines the Chromium rendering engine and the Node.js runtime, providing a web browser window for the user interface and a backend server for the application logic. This combination allows developers to create desktop applications that look and feel like native apps but are powered by web technologies.
